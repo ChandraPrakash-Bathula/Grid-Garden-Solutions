@@ -1,2 +1,3 @@
 # Grid-Garden-Solutions
-A good practice for grid and its properties.
+
+Grid Garden is an interactive and educational web-based game designed to teach beginners the fundamentals of CSS grid layout in a fun and engaging way. The game presents players with a grid-based garden that needs to be properly arranged by applying various CSS grid properties. As players progress through the levels, they learn essential concepts such as grid-template-rows, grid-template-columns, grid-column, and grid-row, gaining hands-on experience in creating responsive and well-organized layouts. The Git repository for Grid Garden houses the source code and assets, making it accessible for contributors and providing a platform for collaborative development. With a clear and intuitive interface, Grid Garden encourages users to experiment with grid layouts, fostering a deeper understanding of CSS grid while making the learning process enjoyable and interactive.
